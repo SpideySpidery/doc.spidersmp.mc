@@ -6,28 +6,8 @@ A free to join Minecraft SMP! It is also the official SMP of SpideySpidery!
 
 ## How to officially join the SMP?
 
-Fosscord aims to be a full one-on-one clone of Discord, adding more features
-that can be used as a replacement for the official client and still connect to
-discord.com and host private Fosscord server instances.
-
-Fosscord aims to give the best possible user experience, while being backwards
-compatible to Discord's features and adding new ones/improving old ones while
-maintaining the user privacy with end-to-end encryption support.
-
-The client can connect to multiple server instances without the need to open it
-multiple times.
-
-The client should be extensible through a secure Plugin and Theme System with
-own store.
-
-The server should be extensible through bots, just like discord without the need
-to change anything except the api endpoint.
-
-The project is open source so everyone can have a look what's going on under the
-hood and can be maintained and expanded by the community.
-
-Everything is configurable in the server config and everyone can add their own
-features, so that it is not opinionated.
+Create an Aternos account and then submit your username on this [FORM](https://my.forms.app/form/61fb787ded8dd61528302e3f). After that, you will have to wait for approval from the Server Admin. 
+After your request is approved, you can login in Aternos and start the server to play whenever you want! You will officially be a member of the Spiders SMP! 
 
 ### Concept
 
