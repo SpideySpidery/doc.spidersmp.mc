@@ -1,5 +1,5 @@
 # Home
-<img src="https://i.ibb.co/kSQw2t7/GG.png" alt="Logo">
+<img src="https://i.ibb.co/xDrhHNy/ggg.png" alt="Logo">
 ### What is the Spiders SMP?
 
 A free to join Minecraft SMP! It is also the official SMP of SpideySpidery!
