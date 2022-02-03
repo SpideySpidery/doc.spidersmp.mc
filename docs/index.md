@@ -6,7 +6,7 @@ A free to join Minecraft SMP! It is also the official SMP of SpideySpidery!
 
 ## How to officially join the SMP?
 
-Create an Aternos account and then submit your username on this [FORM](https://my.forms.app/form/61fb787ded8dd61528302e3f). After that, you will have to wait for approval from the Server Admin. 
+Create an Aternos account and then submit your username on this [Form](https://my.forms.app/form/61fb787ded8dd61528302e3f). After that, you will have to wait for approval from the Server Admin. 
 After your request is approved, you can login in Aternos and start the server to play whenever you want! You will officially be a member of the Spiders SMP! 
 
 You can also join the SMP as a guest user without doing the above mentioned things.
