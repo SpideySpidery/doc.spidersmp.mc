@@ -1,4 +1,4 @@
-# Home
+# Spiders SMP Documentation
 <img src="https://i.ibb.co/xDrhHNy/ggg.png" alt="Logo">
 
 ## What is the Spiders SMP?
@@ -52,6 +52,8 @@ There are also secret spawn egg recipes you have to try and discover your self!
 
 ## Support
 
-[Discord server](https://discord.gg/ZrnGQP6p3d)
+[Discord server](https://discord.gg/32REUPgfP3)
 
-Once we are finished, we'll host our own instance to host the support server.
+[Youtube](https://www.youtube.com/channel/UC8yYfetvXdorcN_I4iV9k2g?sub_confirmation=1&feature=subscribe-embed-click)
+
+Thank You.
