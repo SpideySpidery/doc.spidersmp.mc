@@ -1,10 +1,10 @@
 # Home
+<img src="https://i.ibb.co/kSQw2t7/GG.png" alt="Logo">
+### What is the Spiders SMP?
 
-### What is Fosscord?
+A free to join Minecraft SMP! It is also the official SMP of SpideySpidery!
 
-Fosscord is a free open source self-hostable discord compatible chat, voice and video platform.
-
-## Philosophy
+## How to officially join the SMP?
 
 Fosscord aims to be a full one-on-one clone of Discord, adding more features
 that can be used as a replacement for the official client and still connect to
