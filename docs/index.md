@@ -52,6 +52,8 @@ There are also secret spawn egg recipes you have to try and discover your self!
 
 ## Support
 
+[Website](https://spideyspidery.github.io/spidersmp.mc/)
+
 [Discord server](https://discord.gg/32REUPgfP3)
 
 [Youtube](https://www.youtube.com/channel/UC8yYfetvXdorcN_I4iV9k2g?sub_confirmation=1&feature=subscribe-embed-click)
