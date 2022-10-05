@@ -31,7 +31,7 @@ You can also join the SMP as a guest user without doing the above mentioned thin
 3. If you lose all your hearts and then you would be in spectator mode. You could be revived by voting done by all the other members of the SMP.
 
 You can craft hearts!
-<img src="https://cdn.discordapp.com/attachments/917968497802379346/918696501121810442/Heart_Crafting_Recipe_img.png">
+<img src="https://i.imgur.com/BBIV12H.png">
 
 Craftable Grappling Hooks!
 
@@ -48,7 +48,7 @@ Craft God Apples!
 
 Spawners can be collected using Silk Touch Pickaxes.
 
-There are also secret spawn egg recipes you have to try and discover your self!
+There are also secret spawn egg recipes you have to try and discover yourself!
 
 ## Support
 
